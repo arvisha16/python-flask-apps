@@ -8,7 +8,7 @@ The steps are given below:
 1. On your Mac, install the required packages
 2. Run below CLIs:
    
-export FLASK_APP=flask-app.py (this is your file name to run) \n
+export FLASK_APP=flask-app.py (this is your file name to run) 
 
 flask run
 
