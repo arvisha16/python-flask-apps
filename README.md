@@ -9,6 +9,7 @@ The steps are given below:
 2. Run below CLIs:
    
 export FLASK_APP=flask-app.py (this is your file name to run)
+
 flask run
 
 Sample run:
